@@ -6,11 +6,11 @@ Converts an infix arithemtic expression into a computer-friendly postfix express
 
 ### Usage
 
-clone down the repository on the calc branch
+Clone down the repository on the calc branch
 
-cd into the local folder the repo exists on
+Cd into the local folder the repo exists on
 
-run *make lab2* in the command line
+Run *make lab2* in the command line
 
 Enter in any form of valid equations -> (6 * 6) + 67 ^ 3 
 
