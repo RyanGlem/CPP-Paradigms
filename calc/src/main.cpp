@@ -1,3 +1,4 @@
+// Ryan Glemaud
 #include <iostream>
 #include <stdio.h>
 #include <math.h>
@@ -7,10 +8,11 @@
 using namespace std;
 
 string trim_string (string s);
-
 // Omitting an enumerated type for the calculator operators because +, -, *, / can't be symbols
+// Omitting a struct as the class representation for a calculator would be uneccessary even if used for operator arithmetic
 // User can type in any size string of an equation (1 + 3 * 15/20...) and the caculator will parse
 // that equation into a postfix operators and then compute it
+// POSTFIX CAN'T COMPUTE USER INPUTTED FLOAT VALUES 9.111... etc are all invalid strings
 // PEMDAS
 // Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
 
