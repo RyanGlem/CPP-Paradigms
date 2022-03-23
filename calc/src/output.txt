@@ -1,0 +1,69 @@
+ENTER in an equation 
+5+5
+10
+Continue? (y/n) 
+y
+ENTER in an equation 
+6-3
+3
+Continue? (y/n) 
+y
+ENTER in an equation 
+2 - 38
+-36
+Continue? (y/n) 
+y
+ENTER in an equation 
+2 * 4
+8
+Continue? (y/n) 
+y
+ENTER in an equation 
+156/235
+0.66383
+Continue? (y/n) 
+y
+ENTER in an equation 
+(4 + 5) * 9
+81
+Continue? (y/n) 
+y
+ENTER in an equation 
+(9 ^ 2)-(3 ^ 2 + 32 * 4)
+-56
+Continue? (y/n) 
+y
+ENTER in an equation 
+0~47
+6.85565
+Continue? (y/n) 
+y
+ENTER in an equation 
+(()9
+Wrong number of opening or closing braces 
+Invalid equation
+ENTER in an equation 
+%5
+Invalid number of operators and operands 
+Invalid equation
+ENTER in an equation 
+5+
+Invalid number of operators and operands 
+Invalid equation
+ENTER in an equation 
+44++++
+Invalid number of operators and operands 
+Invalid equation
+ENTER in an equation 
+3.4
+The equation contains a float value which can't be computed in postfix 
+Invalid equation
+ENTER in an equation 
+iab1
+The expression contains a letter 
+Invalid equation
+ENTER in an equation 
+7 ^ 2
+49
+Continue? (y/n) 
+n
