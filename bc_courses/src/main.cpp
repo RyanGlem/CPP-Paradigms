@@ -13,10 +13,12 @@ int main () {
     instructorStats();
     printf("\n");
 
+    /*
     printf ("Term Statistics \n");
     termStats();
     printf("\n");
 
     printf ("Section Statistics\n");
     sectionStats();
+    */
 }

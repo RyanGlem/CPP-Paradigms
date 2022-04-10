@@ -69,7 +69,9 @@ void findAverage (string type, string idName, vector <float> grades, int frequen
     float sum = 0;
 
     for (float grade : grades) {
-        sum+=grade;
+        if (grade != 1) {
+            sum+=grade;
+        }
     }
     cout << "The average grade for " << type << " " << idName << " is " << (sum/frequency) << "\n";
 }
@@ -77,11 +79,21 @@ void findAverage (string type, string idName, vector <float> grades, int frequen
 void findPassRate (string type, string idName, vector <float> grades, int frequency) {
     float count = 0;
     for (float grade : grades) {
-        if (grade >= 73) {
+        if (grade >= 73 || grade == 1) {
             count++;
         }
     }
     cout << "The pass rate for " << type << " " << idName << " is " << (count/frequency) * 100 << "%" << "\n";
+}
+
+void findWithdrawalRate (string type, string idName, vector <float> grades, int frequency) {
+    float count = 0;
+    for (float grade : grades) {
+        if (grade == 0) {
+            count++;
+        }
+    }
+    cout << "The withdrawal rate for " << type << " " << idName << " is " << (count/frequency) * 100 << "%" << "\n";
 }
 
 void extractStats (string type, vector <string> IDs, map <string, vector<float>> gradesByID, map <string, int> frequencyMap) {
@@ -91,6 +103,7 @@ void extractStats (string type, vector <string> IDs, map <string, vector<float>>
         grades = gradesByID[id];
         findAverage (type, id, grades, frequencyMap[id]);
         findPassRate (type, id, grades, frequencyMap[id]);
+        findWithdrawalRate (type, id, grades, frequencyMap[id]);
         printf ("\n");
     }
 }

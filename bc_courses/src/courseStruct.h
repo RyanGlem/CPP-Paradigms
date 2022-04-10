@@ -46,6 +46,9 @@ struct CourseInfo
                 return numberGrade = 79;
             if (letterGrade[1] == '-')
                 return numberGrade = 70;
+            if (letterGrade[1] == 'R') {
+                return numberGrade = 1;
+            }
             numberGrade = 73;
             break;
 
