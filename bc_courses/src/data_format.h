@@ -23,19 +23,22 @@ private:
     map<string, int> sectionFrequency;
 
 public:
-    KeyStorage(map<string, vector<float>> instructorGrades, map<string, int> instructorFreq,
-               map<string, vector<float>> termGrades, map<string, int> termFreq,
-               map<string, vector<float>> sectionGrades, map<string, int> sectionFreq)
-    {
-        gradesByInstructor = instructorGrades;
-        instructorFrequency = instructorFreq;
+    KeyStorage ();
 
-        gradesByTerm = termGrades;
-        termFrequency = termFreq;
+    KeyStorage(vector <CourseInfo> infoVector) {
 
-        gradesBySection = sectionGrades;
-        sectionFrequency = sectionFreq;
-    };
+        for (int i = 0; i < infoVector.size(); i++)
+        {
+            gradesByInstructor[infoVector[i].instructorID].push_back(infoVector[i].numberGrade);
+            instructorFrequency[infoVector[i].instructorID]++;
+
+            gradesByTerm[infoVector[i].termID].push_back(infoVector[i].numberGrade);
+            termFrequency[infoVector[i].termID]++;
+
+            gradesBySection[infoVector[i].sectionID].push_back(infoVector[i].numberGrade);
+            sectionFrequency[infoVector[i].sectionID]++;
+        }
+    }
 
     map<string, vector<float>> getInstructorGrades()
     {
@@ -109,7 +112,14 @@ public:
     }
 };
 
-KeyStorage extract_all_keys(vector<CourseInfo> infoVector);
-vector<CourseInfo> build_course_data();
+vector <CourseInfo> build_course_data (string path);
+extern vector <CourseInfo> gCourseInfoVector;
+int add_enrollment_record (string data);
+string update_grade (string emplid, int courseNo, int grade);
+string find_student (string emplid);
+bool validate_string (string emplid);
+bool validate_instructorID (string str);
+bool validate_sectionID (string str);
+bool validate_termID (string str);
 
 #endif

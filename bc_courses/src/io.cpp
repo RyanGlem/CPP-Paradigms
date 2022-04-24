@@ -9,11 +9,9 @@ using std::getline;
 using std::endl;
 using std::cout;
 
-string read_data () {
+string read_data (string path) {
 
-    std::ifstream course_data ("../data/1115.csv", std::ifstream::binary);
-    //std::ifstream course_data ("../data/3115.csv", std::ifstream::binary);
-    //std::ifstream course_data ("../data/3130.csv", std::ifstream::binary);
+    std::ifstream course_data (path, std::ifstream::binary);
 
     if (!course_data) {
       std::cerr << "No data found" << "\n";
@@ -31,4 +29,11 @@ string read_data () {
     }
 
     return dataChunk;
+}
+
+void write_data (string formatString) {
+
+  std::ofstream output ("../output/coursedata.txt", std::ofstream::binary);
+  // const char * format = formatString.c_str();
+  output << formatString;
 }

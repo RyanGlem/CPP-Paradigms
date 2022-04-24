@@ -3,6 +3,7 @@
 
 using std::string;
 
-string read_data ();
+string read_data (string path);
+void write_data (string stringFormat);
 
 #endif

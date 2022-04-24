@@ -1,0 +1,8 @@
+The average for 1115is 74.275620
+The pass rate for 1115is %27.335775
+The withdrawal rate for 1115is %15.565401
+
+The average grade for section S04 is 50.714287
+The pass rate for section S04 is 47.619049%
+The withdrawal rate for section S04 is 28.571430%
+
