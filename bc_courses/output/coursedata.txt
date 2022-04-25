@@ -1,0 +1,405 @@
+The average for 1115is 74.275620
+The pass rate for 1115is %27.335775
+The withdrawal rate for 1115is %15.565401
+
+The average grade for instructor I01 is 57.543396
+The pass rate for instructor I01 is 49.433960%
+The withdrawal rate for instructor I01 is 27.169811%
+
+The average grade for instructor I02 is 56.240002
+The pass rate for instructor I02 is 49.333336%
+The withdrawal rate for instructor I02 is 18.666666%
+
+The average grade for instructor I03 is 80.675003
+The pass rate for instructor I03 is 90.000000%
+The withdrawal rate for instructor I03 is 7.500000%
+
+The average grade for instructor I04 is 41.056820
+The pass rate for instructor I04 is 30.681818%
+The withdrawal rate for instructor I04 is 39.772728%
+
+The average grade for instructor I06 is 70.971016
+The pass rate for instructor I06 is 73.913040%
+The withdrawal rate for instructor I06 is 11.594203%
+
+The average grade for instructor I07 is 76.970825
+The pass rate for instructor I07 is 92.572945%
+The withdrawal rate for instructor I07 is 6.100796%
+
+The average grade for instructor I08 is 48.532578
+The pass rate for instructor I08 is 42.492916%
+The withdrawal rate for instructor I08 is 32.861191%
+
+The average grade for instructor I10 is 81.611511
+The pass rate for instructor I10 is 87.050362%
+The withdrawal rate for instructor I10 is 5.755396%
+
+The average grade for instructor I11 is 62.725807
+The pass rate for instructor I11 is 61.290325%
+The withdrawal rate for instructor I11 is 19.354837%
+
+The average grade for instructor I12 is 55.881756
+The pass rate for instructor I12 is 56.756760%
+The withdrawal rate for instructor I12 is 28.040541%
+
+The average grade for instructor I14 is 72.818184
+The pass rate for instructor I14 is 77.489182%
+The withdrawal rate for instructor I14 is 8.225108%
+
+The average grade for instructor I15 is 66.245613
+The pass rate for instructor I15 is 76.608185%
+The withdrawal rate for instructor I15 is 14.619883%
+
+The average grade for instructor I16 is 52.708332
+The pass rate for instructor I16 is 45.512817%
+The withdrawal rate for instructor I16 is 28.205130%
+
+The average grade for instructor I17 is 72.850746
+The pass rate for instructor I17 is 67.164177%
+The withdrawal rate for instructor I17 is 7.462687%
+
+The average grade for instructor I18 is 58.624088
+The pass rate for instructor I18 is 58.394157%
+The withdrawal rate for instructor I18 is 21.532846%
+
+The average grade for instructor I19 is 74.494011
+The pass rate for instructor I19 is 81.137726%
+The withdrawal rate for instructor I19 is 7.185629%
+
+The average grade for instructor I20 is 59.562500
+The pass rate for instructor I20 is 59.583336%
+The withdrawal rate for instructor I20 is 20.416666%
+
+The average grade for instructor I21 is 56.929180
+The pass rate for instructor I21 is 53.257793%
+The withdrawal rate for instructor I21 is 26.912182%
+
+The average grade for instructor I22 is 68.261360
+The pass rate for instructor I22 is 72.727272%
+The withdrawal rate for instructor I22 is 18.181818%
+
+The average grade for instructor I23 is 70.425003
+The pass rate for instructor I23 is 72.500000%
+The withdrawal rate for instructor I23 is 15.000001%
+
+The average grade for instructor I24 is 76.000000
+The pass rate for instructor I24 is 82.857147%
+The withdrawal rate for instructor I24 is 8.571429%
+
+The average grade for instructor I25 is 65.766670
+The pass rate for instructor I25 is 60.000004%
+The withdrawal rate for instructor I25 is 20.000000%
+
+The average grade for instructor I26 is 60.799999
+The pass rate for instructor I26 is 66.666672%
+The withdrawal rate for instructor I26 is 23.333334%
+
+The average grade for instructor I27 is 77.494385
+The pass rate for instructor I27 is 80.337074%
+The withdrawal rate for instructor I27 is 10.112359%
+
+The average grade for instructor I28 is 44.052174
+The pass rate for instructor I28 is 33.913044%
+The withdrawal rate for instructor I28 is 37.043480%
+
+The average for 1115is 74.275620
+The pass rate for 1115is %27.335775
+The withdrawal rate for 1115is %15.565401
+
+The average grade for instructor I12 is 55.881756
+The pass rate for instructor I12 is 56.756760%
+The withdrawal rate for instructor I12 is 28.040541%
+
+The average for 1115is 74.275620
+The pass rate for 1115is %27.335775
+The withdrawal rate for 1115is %15.565401
+
+The average grade for section S01 is 72.179489
+The pass rate for section S01 is 66.666672%
+The withdrawal rate for section S01 is 11.965812%
+
+The average grade for section S02 is 71.639534
+The pass rate for section S02 is 72.093025%
+The withdrawal rate for section S02 is 8.139535%
+
+The average grade for section S03 is 68.455559
+The pass rate for section S03 is 71.111115%
+The withdrawal rate for section S03 is 14.444445%
+
+The average grade for section S04 is 50.714287
+The pass rate for section S04 is 47.619049%
+The withdrawal rate for section S04 is 28.571430%
+
+The average grade for section S05 is 54.727272
+The pass rate for section S05 is 45.454548%
+The withdrawal rate for section S05 is 27.272728%
+
+The average grade for section S06 is 32.470589
+The pass rate for section S06 is 29.411766%
+The withdrawal rate for section S06 is 52.941177%
+
+The average grade for section S07 is 61.500000
+The pass rate for section S07 is 66.666672%
+The withdrawal rate for section S07 is 25.000000%
+
+The average grade for section S09 is 57.280899
+The pass rate for section S09 is 49.438202%
+The withdrawal rate for section S09 is 25.842697%
+
+The average grade for section S10 is 54.383560
+The pass rate for section S10 is 63.013695%
+The withdrawal rate for section S10 is 30.136988%
+
+The average grade for section S11 is 74.792374
+The pass rate for section S11 is 84.745766%
+The withdrawal rate for section S11 is 8.898305%
+
+The average grade for section S12 is 66.022224
+The pass rate for section S12 is 56.666668%
+The withdrawal rate for section S12 is 14.444445%
+
+The average grade for section S13 is 50.634483
+The pass rate for section S13 is 52.413792%
+The withdrawal rate for section S13 is 33.103447%
+
+The average grade for section S14 is 60.647060
+The pass rate for section S14 is 63.122169%
+The withdrawal rate for section S14 is 20.135746%
+
+The average grade for section S15 is 45.592594
+The pass rate for section S15 is 41.975307%
+The withdrawal rate for section S15 is 37.037037%
+
+The average grade for section S16 is 71.400002
+The pass rate for section S16 is 76.666664%
+The withdrawal rate for section S16 is 10.000000%
+
+The average grade for section S17 is 53.666668
+The pass rate for section S17 is 41.666664%
+The withdrawal rate for section S17 is 28.333334%
+
+The average grade for section S18 is 45.750000
+The pass rate for section S18 is 33.333336%
+The withdrawal rate for section S18 is 36.666668%
+
+The average grade for section S19 is 54.299999
+The pass rate for section S19 is 50.000000%
+The withdrawal rate for section S19 is 28.888889%
+
+The average grade for section S20 is 59.829166
+The pass rate for section S20 is 61.666668%
+The withdrawal rate for section S20 is 20.416666%
+
+The average grade for section S21 is 53.987804
+The pass rate for section S21 is 49.593498%
+The withdrawal rate for section S21 is 28.861788%
+
+The average grade for section S22 is 42.050560
+The pass rate for section S22 is 30.898874%
+The withdrawal rate for section S22 is 37.640450%
+
+The average grade for section S23 is 74.371429
+The pass rate for section S23 is 78.095238%
+The withdrawal rate for section S23 is 13.333334%
+
+The average grade for section S24 is 75.014709
+The pass rate for section S24 is 72.058823%
+The withdrawal rate for section S24 is 10.294118%
+
+The average grade for section S25 is 63.111111
+The pass rate for section S25 is 71.111115%
+The withdrawal rate for section S25 is 13.333334%
+
+The average grade for section S26 is 61.724308
+The pass rate for section S26 is 63.947796%
+The withdrawal rate for section S26 is 21.696573%
+
+The average grade for section S27 is 62.290600
+The pass rate for section S27 is 55.555557%
+The withdrawal rate for section S27 is 23.076923%
+
+The average grade for section S28 is 53.280701
+The pass rate for section S28 is 44.298248%
+The withdrawal rate for section S28 is 26.754385%
+
+The average grade for section S29 is 64.146065
+The pass rate for section S29 is 50.561798%
+The withdrawal rate for section S29 is 12.359550%
+
+The average grade for section S30 is 51.460251
+The pass rate for section S30 is 48.117153%
+The withdrawal rate for section S30 is 30.962341%
+
+The average grade for section S31 is 66.031563
+The pass rate for section S31 is 68.770767%
+The withdrawal rate for section S31 is 16.777409%
+
+The average grade for section S32 is 70.788887
+The pass rate for section S32 is 75.555557%
+The withdrawal rate for section S32 is 14.444445%
+
+The average grade for section S33 is 61.000000
+The pass rate for section S33 is 50.000000%
+The withdrawal rate for section S33 is 23.333334%
+
+The average grade for section S34 is 54.821194
+The pass rate for section S34 is 51.655624%
+The withdrawal rate for section S34 is 23.178808%
+
+The average grade for section S35 is 76.371178
+The pass rate for section S35 is 81.659386%
+The withdrawal rate for section S35 is 5.240175%
+
+The average for 3130is 79.537949
+The pass rate for 3130is %14.968215
+The withdrawal rate for 3130is %1.926411
+
+The average grade for term T04 is 57.632107
+The pass rate for term T04 is 49.498329%
+The withdrawal rate for term T04 is 25.418060%
+
+Student entry successful
+E4501 3115 83
+The grade isn't a number
+Invalid emplid
+E4501 3115 83
+The average for 3115is 82.048622
+The pass rate for 3115is %18.374422
+The withdrawal rate for 3115is %3.659476
+
+The average grade for section S01 is 72.179489
+The pass rate for section S01 is 66.666672%
+The withdrawal rate for section S01 is 11.965812%
+
+The average grade for section S02 is 71.639534
+The pass rate for section S02 is 72.093025%
+The withdrawal rate for section S02 is 8.139535%
+
+The average grade for section S03 is 68.455559
+The pass rate for section S03 is 71.111115%
+The withdrawal rate for section S03 is 14.444445%
+
+The average grade for section S04 is 52.181820
+The pass rate for section S04 is 50.000000%
+The withdrawal rate for section S04 is 27.272728%
+
+The average grade for section S05 is 54.727272
+The pass rate for section S05 is 45.454548%
+The withdrawal rate for section S05 is 27.272728%
+
+The average grade for section S06 is 32.470589
+The pass rate for section S06 is 29.411766%
+The withdrawal rate for section S06 is 52.941177%
+
+The average grade for section S07 is 61.500000
+The pass rate for section S07 is 66.666672%
+The withdrawal rate for section S07 is 25.000000%
+
+The average grade for section S09 is 57.280899
+The pass rate for section S09 is 49.438202%
+The withdrawal rate for section S09 is 25.842697%
+
+The average grade for section S10 is 54.383560
+The pass rate for section S10 is 63.013695%
+The withdrawal rate for section S10 is 30.136988%
+
+The average grade for section S11 is 74.792374
+The pass rate for section S11 is 84.745766%
+The withdrawal rate for section S11 is 8.898305%
+
+The average grade for section S12 is 66.022224
+The pass rate for section S12 is 56.666668%
+The withdrawal rate for section S12 is 14.444445%
+
+The average grade for section S13 is 50.634483
+The pass rate for section S13 is 52.413792%
+The withdrawal rate for section S13 is 33.103447%
+
+The average grade for section S14 is 60.647060
+The pass rate for section S14 is 63.122169%
+The withdrawal rate for section S14 is 20.135746%
+
+The average grade for section S15 is 45.592594
+The pass rate for section S15 is 41.975307%
+The withdrawal rate for section S15 is 37.037037%
+
+The average grade for section S16 is 71.400002
+The pass rate for section S16 is 76.666664%
+The withdrawal rate for section S16 is 10.000000%
+
+The average grade for section S17 is 53.666668
+The pass rate for section S17 is 41.666664%
+The withdrawal rate for section S17 is 28.333334%
+
+The average grade for section S18 is 45.750000
+The pass rate for section S18 is 33.333336%
+The withdrawal rate for section S18 is 36.666668%
+
+The average grade for section S19 is 54.299999
+The pass rate for section S19 is 50.000000%
+The withdrawal rate for section S19 is 28.888889%
+
+The average grade for section S20 is 59.829166
+The pass rate for section S20 is 61.666668%
+The withdrawal rate for section S20 is 20.416666%
+
+The average grade for section S21 is 53.987804
+The pass rate for section S21 is 49.593498%
+The withdrawal rate for section S21 is 28.861788%
+
+The average grade for section S22 is 42.050560
+The pass rate for section S22 is 30.898874%
+The withdrawal rate for section S22 is 37.640450%
+
+The average grade for section S23 is 74.371429
+The pass rate for section S23 is 78.095238%
+The withdrawal rate for section S23 is 13.333334%
+
+The average grade for section S24 is 75.014709
+The pass rate for section S24 is 72.058823%
+The withdrawal rate for section S24 is 10.294118%
+
+The average grade for section S25 is 63.111111
+The pass rate for section S25 is 71.111115%
+The withdrawal rate for section S25 is 13.333334%
+
+The average grade for section S26 is 61.724308
+The pass rate for section S26 is 63.947796%
+The withdrawal rate for section S26 is 21.696573%
+
+The average grade for section S27 is 62.290600
+The pass rate for section S27 is 55.555557%
+The withdrawal rate for section S27 is 23.076923%
+
+The average grade for section S28 is 53.280701
+The pass rate for section S28 is 44.298248%
+The withdrawal rate for section S28 is 26.754385%
+
+The average grade for section S29 is 64.146065
+The pass rate for section S29 is 50.561798%
+The withdrawal rate for section S29 is 12.359550%
+
+The average grade for section S30 is 51.460251
+The pass rate for section S30 is 48.117153%
+The withdrawal rate for section S30 is 30.962341%
+
+The average grade for section S31 is 66.031563
+The pass rate for section S31 is 68.770767%
+The withdrawal rate for section S31 is 16.777409%
+
+The average grade for section S32 is 70.788887
+The pass rate for section S32 is 75.555557%
+The withdrawal rate for section S32 is 14.444445%
+
+The average grade for section S33 is 61.000000
+The pass rate for section S33 is 50.000000%
+The withdrawal rate for section S33 is 23.333334%
+
+The average grade for section S34 is 54.821194
+The pass rate for section S34 is 51.655624%
+The withdrawal rate for section S34 is 23.178808%
+
+The average grade for section S35 is 76.371178
+The pass rate for section S35 is 81.659386%
+The withdrawal rate for section S35 is 5.240175%
+
