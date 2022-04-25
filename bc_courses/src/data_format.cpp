@@ -278,6 +278,8 @@ bool validate_string(vector<string> str)
     if (str[5].size() > 2)
     {
         printf("Invalid size of grade\n");
+        printf ("Size of grade: %ld\n", str[5].size());
+        //std::cout << str[5];
         return false;
     }
 
@@ -310,6 +312,7 @@ int add_enrollment_record(string data)
     }
 
     CourseInfo courseInfo;
+    string temp;
 
     courseInfo.emplID = courseString[0];
 

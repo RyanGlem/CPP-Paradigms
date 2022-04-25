@@ -31,8 +31,6 @@ int main()
     int courseNo;
     char ans;
     char search;
-
-    std::ofstream output ("coursedata.txt");
     std::ifstream testInputs ("testinput.txt");
 
     printf ("Reading in data\n");
@@ -85,9 +83,9 @@ int main()
                 s += "The withdrawal rate for " + courseNum +"is %" + std::to_string (course_withdrawal_rate(courseNo)) + "\n\n";
                 //write_data (s);
             } else {
-                printf ("The average for %d is, %.2f\n", courseNo, course_average(courseNo));
-                printf ("The pass rate for %d is, %.2f\n", courseNo, course_pass_rate(courseNo));
-                printf ("The withdrawal rate for %d ism %.2f\n", courseNo, course_withdrawal_rate(courseNo));
+                printf ("The average for %d is %.2f%%\n", courseNo, course_average(courseNo));
+                printf ("The pass rate for %d is %.2f%%\n", courseNo, course_pass_rate(courseNo));
+                printf ("The withdrawal rate for %d is %.2f%%\n", courseNo, course_withdrawal_rate(courseNo));
             }
 
             printf("Enter in a key for section, term, or instructor statistics\n");
@@ -164,6 +162,7 @@ int main()
                         }
                     } else {
                         s+="Term ID is invalid\n";
+                        break;
                     }
                 } else if (tolower(search) == 'n') {
                     if (test) {
@@ -183,7 +182,6 @@ int main()
                         break;
                     }
                 }
-                break;
             case 's':
                 printf("Search for specific section?\n");
                 printf("Y / N\n");
@@ -238,6 +236,9 @@ int main()
             printf("Enter student info with commas between each field\n");
             printf("EMPLID\t COURSE NUMBER\t INSTRUCTOR ID\t TERM ID \t SECTION ID\t GRADE\n ");
             test ? getline(testInputs, answerString) : cin >> answerString;
+            if (test) {
+                answerString.erase(answerString.size() - 1);
+            }
             studentString = answerString;
             if (add_enrollment_record(studentString) == 0)
             {
@@ -249,7 +250,14 @@ int main()
                     break;
                 }
             }
-            break;
+
+            if (test) {
+                s+= "Student entry successful\n";
+                break;
+            } else {
+                printf ("Student entry successful\n");
+                break;
+            }
         case 3:
             printf("Enter in a grade\n");
             test ? getline(testInputs, answerString) : cin >> answerString;
@@ -321,6 +329,11 @@ int main()
             printf ("Enter in valid EMPLID\n");
             test ? getline (testInputs, answerString) : cin >> emplid;
 
+            if (test) {
+                answerString.erase(answerString.size() - 1);
+            }
+            emplid = answerString;
+
             if (!validate_string(emplid)) {
                 if (test) {
                     s+="Invalid emplid\n";
@@ -333,12 +346,15 @@ int main()
 
             if (test) {
                 s += find_student(emplid);
+                cin.clear();
+                break;
             } else {
                 string temp = find_student(emplid);
                 printf ("%s", temp.c_str());
+                cin.clear();
+                break;
             }
-            cin.clear();
-            break;
+
         default:
             printf("Not a valid menu option\n");
             break;
