@@ -403,3 +403,7 @@ The average grade for section S35 is 76.371178
 The pass rate for section S35 is 81.659386%
 The withdrawal rate for section S35 is 5.240175%
 
+The average for 3130is 79.537949
+The pass rate for 3130is %14.965332
+The withdrawal rate for 3130is %1.926040
+
