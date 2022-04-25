@@ -1,1 +1,5 @@
 
+The average for 3130is 79.537949
+The pass rate for 3130is %14.965332
+The withdrawal rate for 3130is %1.926040
+
