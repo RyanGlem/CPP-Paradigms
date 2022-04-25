@@ -22,7 +22,7 @@ The usage of maps to create dictionary tables were needed because there were 2 k
 
 Using maps allows for the appending and manipulation of key-value pairs for each item. The program can easily find a specific instructor ID, grab the grades, aggregate it and divide by the frequency all using simple methods inside of the map data structure.
 
-## A report is manually generated on make lab3 with test inputs. The test boolean must be switch manually inside the program for user input
+## A report is manually generated on make lab3 with test inputs. The test boolean must be switched manually inside the program for user input
 
 ### Usage
 
